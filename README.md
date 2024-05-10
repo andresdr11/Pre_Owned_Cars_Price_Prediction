@@ -1,4 +1,4 @@
-## Second-Hand Car Price Analysis
+## Pre-Owned Car Price Analysis
 
 #### Project Description
 This project was developed for VALTEL, S.A., a telecommunications company specializing in services for non-national citizens in Spain. The goal is to diversify VALTEL's services by integrating a feature into their mobile app that allows users to search for and compare second-hand car prices, thereby offering competitive rates.
