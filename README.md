@@ -27,16 +27,19 @@ The models were evaluated based on their accuracy and performance. The results o
 * Linear Regression Model:
 
 RMSE: 6836.46
+
 R2: 0.79
 
 * Neural Network Model (Fully Connected Neural Network):
 
 RMSE: 5804.22
+
 R2: 0.84
 
 * Stacking Model (combination of Linear Regression and Neural Networks):
 
 RMSE: 5771.26
+
 R2: 0.85
 
 The stacking model provided the best results, demonstrating a significant improvement in price prediction compared to the individual models.
